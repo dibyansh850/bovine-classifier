@@ -1,0 +1,207 @@
+{
+  "alambadi": {
+    "weight": "300-350 kg",
+    "milk_production": "1-3 liters/day",
+    "max_age": "15-20 years"
+  },
+  "amritmahal": {
+    "weight": "318-500 kg",
+    "milk_production": "572 kg/lactation (~2 liters/day)",
+    "max_age": "12-15 years"
+  },
+  "ayrshire": {
+    "weight": "450-540 kg",
+    "milk_production": "6000-9100 kg/year (~20-25 liters/day)",
+    "max_age": "12-15 years"
+  },
+  "banni": {
+    "weight": "450-650 kg",
+    "milk_production": "12-19 liters/day",
+    "max_age": "15-20 years"
+  },
+  "bargur": {
+    "weight": "250-400 kg",
+    "milk_production": "1.5-3 liters/day (350-800 kg/lactation)",
+    "max_age": "20 years"
+  },
+  "bhadawari": {
+    "weight": "385 kg",
+    "milk_production": "750-1300 kg/lactation",
+    "max_age": "15-20 years"
+  },
+  "brown_swiss": {
+    "weight": "590-640 kg",
+    "milk_production": "10231 kg/year (~28 liters/day)",
+    "max_age": "12-15 years"
+  },
+  "dangi": {
+    "weight": "430-600 kg",
+    "milk_production": "175-800 kg/lactation (~2 liters/day)",
+    "max_age": "15-20 years"
+  },
+  "deoni": {
+    "weight": "400-550 kg",
+    "milk_production": "638-1580 kg/lactation (~2.5-5 liters/day)",
+    "max_age": "15-20 years"
+  },
+  "gir": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "guernsey": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "hallikar": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "hariana": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "holstein_friesian": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "jaffrabadi": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "jersey": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "kangayam": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "kankrej": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "kasargod": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "kenkatha": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "kherigarh": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "khillari": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "krishna_valley": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "malnad_gidda": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "mehsana": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "murrah": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "nagori": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "nagpuri": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "nili_ravi": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "nimari": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "ongole": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "pulikulam": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "rathi": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "red_dane": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "red_sindhi": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "sahiwal": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "surti": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "tharparkar": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "toda": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "umblachery": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  },
+  "vechur": {
+    "weight": "N/A",
+    "milk_production": "N/A",
+    "max_age": "N/A"
+  }
+}
