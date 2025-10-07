@@ -2,12 +2,14 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 import pickle
+import json
 
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
 st.title("Bovine Breed Classifier")
+
 
 # Load ML model and labels once
 @st.cache_resource
@@ -46,5 +48,29 @@ uploaded_file = st.file_uploader("Choose an image", type=["png", "jpg", "jpeg", 
 
 if uploaded_file:
     img = Image.open(uploaded_file)
-    st.image(img, caption="Uploaded image", use_container_width=True)
-    st.text(f"Predicted breed: {get_breed(img)}")
+
+    col1, col2 = st.columns([1,1])
+
+    with col1:
+        st.image(img, caption="Uploaded image", use_container_width=True)
+    with col2:
+        breed = get_breed(img)
+        with open("data/json_files/breed_details.json") as f:
+            breed_json = json.load(f)
+        
+        info = breed_json[breed.lower()]
+
+        st.markdown(
+            f"""
+            <div style="
+                padding: 8px;
+                margin: 0;
+                ">
+                <h3 style="margin:0">{breed}</h3>
+                <p style="margin:2px 0"><b>Weight:</b> {info['weight']}</p>
+                <p style="margin:2px 0"><b>Milk production:</b> {info['milk_production']}</p>
+                <p style="margin:2px 0"><b>Max age:</b> {info['max_age']}</p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
