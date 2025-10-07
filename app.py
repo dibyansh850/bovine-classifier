@@ -12,9 +12,9 @@ st.title("Bovine Breed Classifier")
 # Load ML model and labels once
 @st.cache_resource
 def load_model():
-    with open("models/cattle_breed_classifier.pkl", "rb") as f:
+    with open("data/models/cattle_breed_classifier.pkl", "rb") as f:
         clf = pickle.load(f)
-    with open("models/breed_labels.pkl", "rb") as f:
+    with open("data/models/breed_labels.pkl", "rb") as f:
         categories = pickle.load(f)
     return clf, categories
 

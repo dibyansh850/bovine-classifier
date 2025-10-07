@@ -45,163 +45,164 @@
     "max_age": "15-20 years"
   },
   "gir": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "313-545 kg (cows 313-402, bulls ~545)",
+    "milk_production": "1400–2100 kg/lactation (~4–7 liters/day)",
+    "max_age": "12-15 years"
   },
   "guernsey": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-500 kg (cows), 600-700 kg (bulls)",
+    "milk_production": "6000 liters/year (~18-20 liters/day)",
+    "max_age": "6-10 years"
   },
   "hallikar": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "340-420 kg (cows), 500-600 kg (bulls)",
+    "milk_production": "500-550 kg/lactation (~2 liters/day)",
+    "max_age": "15-20 years"
   },
   "hariana": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "380-480 kg (cows), 500-600 kg (bulls)",
+    "milk_production": "1100–2600 kg/lactation (~3-7 liters/day)",
+    "max_age": "12-15 years"
   },
   "holstein_friesian": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "580-680 kg (cows), 800-900 kg (bulls)",
+    "milk_production": "7000-10000 kg/year (~22-30 liters/day)",
+    "max_age": "15-20 years"
   },
   "jaffrabadi": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "500-600 kg (cows), 700-800 kg (bulls)",
+    "milk_production": "1500-3500 kg/lactation (8-15 liters/day)",
+    "max_age": "15-18 years"
   },
   "jersey": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "400-450 kg (cows), 540-820 kg (bulls)",
+    "milk_production": "4000-6000 liters/year",
+    "max_age": "15-20 years"
   },
   "kangayam": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "340-480 kg (cows), 540-600 kg (bulls)",
+    "milk_production": "540–1455 kg/lactation (~2-3.5 liters/day)",
+    "max_age": "20-25 years"
   },
   "kankrej": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-550 kg (cows), 550-700 kg (bulls)",
+    "milk_production": "2000–3000 kg/lactation (~8-12 liters/day)",
+    "max_age": "10-12 years"
   },
   "kasargod": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "146-182 kg (cows), 140-180 kg (bulls)",
+    "milk_production": "1.4 liters/day average, max 2 liters/day",
+    "max_age": "15 years"
   },
   "kenkatha": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "350-400 kg",
+    "milk_production": "500-600 kg/lactation (~1-3 kg/day)",
+    "max_age": "15-20 years"
   },
   "kherigarh": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "340-470 kg",
+    "milk_production": "300-500 kg/lactation (~1-2 liters/day)",
+    "max_age": "15-20 years"
   },
   "khillari": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "360-450 kg",
+    "milk_production": "240-515 kg/lactation (~1-2 liters/day)",
+    "max_age": "15-20 years"
   },
   "krishna_valley": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "325 kg (cow), 550 kg (bull)",
+    "milk_production": "916 kg/lactation (~3 liters/day)",
+    "max_age": "15-20 years"
   },
   "malnad_gidda": {
-    "weight": "N/A",
+    "weight": "60-90 kg",
     "milk_production": "N/A",
-    "max_age": "N/A"
+    "max_age": "15-20 years"
   },
   "mehsana": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "395-542 kg",
+    "milk_production": "2800-3600 kg/lactation (~8-10 liters/day)",
+    "max_age": "15-20 years"
   },
   "murrah": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-550 kg",
+    "milk_production": "2200-3200 kg/lactation (~8-10 liters/day)",
+    "max_age": "15-20 years"
   },
   "nagori": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "453-544 kg",
+    "milk_production": "1300-2500 kg/lactation (~6-8 liters/day)",
+    "max_age": "15-18 years"
   },
   "nagpuri": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "350-470 kg",
+    "milk_production": "1800-2500 kg/lactation (~7-9 liters/day)",
+    "max_age": "15-20 years"
   },
   "nili_ravi": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-550 kg",
+    "milk_production": "1200-1800 kg/lactation (~5-7 liters/day)",
+    "max_age": "15-20 years"
   },
   "nimari": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "350-450 kg",
+    "milk_production": "500-1000 kg/lactation (~2-4 liters/day)",
+    "max_age": "15-18 years"
   },
   "ongole": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-500 kg (cows), 680-720 kg (bulls)",
+    "milk_production": "800-1050 kg/lactation (~3 liters/day)",
+    "max_age": "15-20 years"
   },
   "pulikulam": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "150-200 kg",
+    "milk_production": "300-500 kg/lactation (~1-2 liters/day)",
+    "max_age": "15 years"
   },
   "rathi": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "450-500 kg (cows), 680-720 kg (bulls)",
+    "milk_production": "1200-1600 kg/lactation (~4-5 liters/day)",
+    "max_age": "15-20 years"
   },
   "red_dane": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "500-600 kg",
+    "milk_production": "7000-8000 kg/year (~20-25 liters/day)",
+    "max_age": "12-15 years"
   },
   "red_sindhi": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "400-450 kg (cows), 500-600 kg (bulls)",
+    "milk_production": "1134-2268 kg/lactation (~4-8 liters/day)",
+    "max_age": "12-15 years"
   },
   "sahiwal": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "400-500 kg (cows), 600-700 kg (bulls)",
+    "milk_production": "1134-3175 kg/lactation (~4-10 liters/day)",
+    "max_age": "12-15 years"
   },
   "surti": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "350-425 kg",
+    "milk_production": "1000-1400 kg/lactation (~3-5 liters/day)",
+    "max_age": "15-20 years"
   },
   "tharparkar": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "400-500 kg (cows), 600-700 kg (bulls)",
+    "milk_production": "680-2268 kg/lactation (~3-7 liters/day)",
+    "max_age": "12-15 years"
   },
   "toda": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "115-150 kg",
+    "milk_production": "about 1 liter/day",
+    "max_age": "15-18 years"
   },
   "umblachery": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "150-300 kg",
+    "milk_production": "about 500-700 kg/lactation",
+    "max_age": "15-20 years"
   },
   "vechur": {
-    "weight": "N/A",
-    "milk_production": "N/A",
-    "max_age": "N/A"
+    "weight": "130-170 kg",
+    "milk_production": "600-700 liters/year (~2 liters/day)",
+    "max_age": "15-20 years"
   }
 }
+
