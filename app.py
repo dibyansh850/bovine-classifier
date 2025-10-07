@@ -3,6 +3,7 @@ from PIL import Image
 import numpy as np
 import pickle
 import json
+import base64
 
 from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.preprocessing import image
@@ -10,6 +11,35 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 
 st.title("Bovine Breed Classifier")
 
+st.markdown("""
+    <style>
+    .stAppViewContainer {
+        background-image: url('bg.jpg');
+    }
+    </style>""",
+    unsafe_allow_html=True
+    )
+
+def set_bg_image(image_file):
+    with open(image_file, "rb") as f:
+        data = f.read()
+        encoded = base64.b64encode(data).decode()  # encode as base64
+
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("data:image/jpg;base64,{encoded}");
+            background-size: auto;
+            background-attachment: fixed;
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Call the function with your image file
+set_bg_image("bg.jpg")
 
 # Load ML model and labels once
 @st.cache_resource
